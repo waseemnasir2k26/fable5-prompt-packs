@@ -1,0 +1,4 @@
+- fable5-prompt-packs is a content-only public repo holding 10 niche 'Fable 5 prompts' lead-magnet PDFs, one folder per audience (accountants, agency owners, coaches, creators, ecom, HR ops, local biz, real estate, recruiters, video editors).
+- Reviewed October 2026: tree and history re-checked; last content commit is 2026-07-24 (expired Fable 5 deadline removed from all packs). No PDF was regenerated or edited.
+- Known gaps: only rendered PDFs are tracked, so a pack cannot be regenerated from this repo; no LICENSE; README is a short stub.
+- README has no external links to check. A Work with SkynetLabs section was added.
